@@ -37,16 +37,3 @@
     <img src="https://skillicons.dev/icons?i=py,js,html,git,docker,vscode,linux,windows,ai&theme=dark" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EfeDurmus&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeDurmus&layout=compact&theme=vue-dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfeDurmus&theme=vue-dark&hide_border=true" width="100%" />
-</p>
