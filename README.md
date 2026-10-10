@@ -22,7 +22,7 @@
 **Diller:**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 
 **Geliştirme & Araçlar:**  
 <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
