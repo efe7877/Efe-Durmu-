@@ -1,29 +1,49 @@
-# 👋 Hi there, I'm [Adın Soyadın]!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=3,12,25&height=200&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Your%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
 
-[![Profile views](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=brightgreen)](https://github.com/KULLANICI_ADIN)
-
-### When I code, I rely on
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://g.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<p align="center">
+  <em>💻 Computer Engineering Student & Developer | Passionate about building impactful software</em>
 </p>
 
-### About Me
+---
 
-- 💻 I'm passionate about building web and software applications that solve real-world problems.
-- 🌱 I'm currently learning and improving my skills every day.
-- 📫 How to reach me: **e-posta@adresin.com**
+### 🚀 Hakkımda / About Me
 
-### My GitHub Contributions Summary
+- 🔭 **Üzerinde çalıştığım projeler:** Akademik projeler ve kişisel yazılım geliştirmeleri.
+- 🌱 **Şu an öğrendiklerim:** Modern web teknolojileri ve ileri düzey yazılım mimarileri.
+- 💬 **Şu konularda bana sorabilirsiniz:** Programlama dilleri, teknoloji ve masaüstü/tablet ekosistemleri.
+- 📫 **İletişim:** ` e-posta@adresin.com `
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=radical)
+---
 
-### My GitHub Stats
+### 🛠️ Yetenekler ve Teknolojiler / Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical)
+<div align="center">
+
+| Kategori | Teknolojiler |
+| :--- | :--- |
+| **Diller** | `![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)` `![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)` `![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)` |
+| **Geliştirme & Araçlar** | `![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)` `![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)` `![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)` |
+| **Sistem & Donanım** | `![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)` `![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)` |
+
+</div>
+
+---
+
+### 📊 GitHub İstatistikleri / GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=25,12,3&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" />
+</div>
