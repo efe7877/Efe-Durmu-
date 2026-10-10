@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <em>💻 Computer Engineering Student & Developer | Passionate about building impactful software</em>
+  <em>💻 İnternet and network Technologies / İnternet Engineer</em>
 </p>
 
 ---
@@ -12,8 +12,8 @@
 
 - 🔭 **Üzerinde çalıştığım projeler:** Akademik projeler ve kişisel yazılım geliştirmeleri.
 - 🌱 **Şu an öğrendiklerim:** Modern web teknolojileri ve ileri düzey yazılım mimarileri.
-- 💬 **Şu konularda bana sorabilirsiniz:** Programlama dilleri, teknoloji ve masaüstü/tablet ekosistemleri.
-- 📫 **İletişim:** ` e-posta@adresin.com `
+- 💬 **Şu konularda bana sorabilirsiniz:** Programlama dilleri, internetin ekosistemi, yapay zeka hakkında.
+- 📫 **İletişim:** ` efedrms@info.com `
 
 ---
 
