@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=3,12,25&height=200&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Efe%20Durmuş&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&gradient=148,10,91,10&height=200&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Efe%20Durmuş&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <p align="center">
@@ -40,5 +40,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor_list=25,12,3&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20✨&fontSize=22&fontColor=ffffff&animation=scaleIn&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&gradient=10,91,10,148&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20✨&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
 </div>
