@@ -35,19 +35,6 @@
 
 ---
 
-### 📊 GitHub İstatistikleri / GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=25,12,3&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor_list=25,12,3&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20✨&fontSize=22&fontColor=ffffff&animation=scaleIn&fontAlignY=50" width="100%" />
 </div>
