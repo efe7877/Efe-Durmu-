@@ -19,15 +19,19 @@
 
 ### 🛠️ Yetenekler ve Teknolojiler / Tech Stack
 
-<div align="center">
+**Diller:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 
-| Kategori | Teknolojiler |
-| :--- | :--- |
-| **Diller** | `![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)` `![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)` `![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)` |
-| **Geliştirme & Araçlar** | `![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)` `![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)` `![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)` |
-| **Sistem & Donanım** | `![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)` `![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)` |
+**Geliştirme & Araçlar:**  
+<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 
-</div>
+**Sistem & Donanım:**  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
 
 ---
 
